@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerItemSearchClick</string>
+    <string name="update">Update</string>
+    <string name="search">Search</string>
+    <string-array name="employeeList">
+        <item>Ahmed</item>
+        <item>Mohammed</item>
+        <item>Aya</item>
+    </string-array>
+</resources>
